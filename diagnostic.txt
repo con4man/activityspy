@@ -1,0 +1,17 @@
+04-12 21:57:10.148 4903-4903/activityspy.connorha.washington.edu.activityspy I/InstantRun: starting instant run server: is main process
+04-12 21:57:10.218 4903-4903/activityspy.connorha.washington.edu.activityspy I/Main Activity: onCreate event fired
+    We have no state
+04-12 21:57:10.335 4903-4903/activityspy.connorha.washington.edu.activityspy I/Main Activity: onStart fired
+04-12 21:57:10.339 4903-4903/activityspy.connorha.washington.edu.activityspy I/Main Activity: onResume fired
+04-12 21:57:10.393 4903-4921/activityspy.connorha.washington.edu.activityspy I/zygote: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+04-12 21:57:10.393 4903-4921/activityspy.connorha.washington.edu.activityspy I/OpenGLRenderer: Initialized EGL, version 1.4
+04-12 21:57:10.394 4903-4921/activityspy.connorha.washington.edu.activityspy W/OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+04-12 21:57:17.205 4903-4903/activityspy.connorha.washington.edu.activityspy I/Main Activity: onPause fired
+04-12 21:57:17.288 4903-4903/activityspy.connorha.washington.edu.activityspy I/Main Activity: onStop fired
+04-12 21:57:19.603 4903-4903/activityspy.connorha.washington.edu.activityspy I/Main Activity: onRestart fired
+04-12 21:57:19.604 4903-4903/activityspy.connorha.washington.edu.activityspy I/Main Activity: onStart fired
+    onResume fired
+04-12 21:57:22.855 4903-4903/activityspy.connorha.washington.edu.activityspy I/Main Activity: onPause fired
+04-12 21:57:23.256 4903-4903/activityspy.connorha.washington.edu.activityspy I/Main Activity: onStop fired
+04-12 21:57:23.257 4903-4903/activityspy.connorha.washington.edu.activityspy I/Main Activity: onDestroy fired
+04-12 21:57:23.257 4903-4903/activityspy.connorha.washington.edu.activityspy E/Main Activity: We're going down, Captain!
